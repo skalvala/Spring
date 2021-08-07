@@ -1,5 +1,5 @@
-import com.pluralsight.service.SpeakerService;
-import com.pluralsight.service.SpeakerServiceImpl;
+import exercise1.pluralsight.service.SpeakerService;
+import exercise1.pluralsight.service.SpeakerServiceImpl;
 
 public class Application {
 
